@@ -50,19 +50,19 @@
   - functor: 🎓 known
   - monad: 🎓 known
   - monoid: 🎓 known
-  - generator: 👂 heard
+  - generator: 🖐️ used
   - coroutine: 👂 heard
 - Data structures
   - array: 🙋 explained
   - structure: 🙋 explained
-  - record: 🎓 known
-  - enum: 🎓 known
-  - instance: 🖐️ used
+  - record: 🙋 explained
+  - enum: 🙋 explained
+  - instance: 🙋 explained
   - object: 🙋 explained
-  - class: 🖐️ used
-  - collection: 🖐️ used
-  - set: 🖐️ used
-  - hash table: 🎓 known
+  - class: 🙋 explained
+  - collection: 🙋 explained
+  - set: 🙋 explained
+  - hash table: 🖐️ used
   - linked list: 🖐️ used
   - doubly list: 🎓 known
   - unrolled list
@@ -72,22 +72,22 @@
   - deque: 🎓 known
   - tree: 🖐️ used
   - graph: 🖐️ used
-  - iterator: 👂 heard
-  - mutable state: 🖐️ used
-  - immutable state: 🖐️ used
+  - iterator: 🖐️ used
+  - mutable state: 🙋 explained
+  - immutable state: 🙋 explained
   - serialization: 🖐️ used
   - string parsing: 🖐️ used
 - Process & style
   - compiler: 🖐️ used
   - transpiler: 🎓 known
-  - linter: 🖐️ used
+  - linter: 🙋 explained
   - polyfill: 🎓 known
-  - debugger: 👂 heard
-  - garbage collection: 🎓 known
-  - refactoring: 🖐️ used
-  - code review: 🖐️ used
+  - debugger: 🖐️ used
+  - garbage collection: 🙋 explained
+  - refactoring: 🙋 explained
+  - code review: 🙋 explained
   - antipatterns: 🎓 known
-  - paradigm: 🖐️ used
+  - paradigm: 🙋 explained
   - algorithm: 🙋 explained
   - magic numbers: 🎓 known
   - hardcode: 🎓 known
@@ -101,6 +101,6 @@
   - duplicate code: 🎓 known
   - exception: 🖐️ used
   - return early: 🎓 known
-  - unittest: 👂 heard
-  - git: 🖐️ used
-  - github: 🖐️ used
+  - unittest: 🖐️ used
+  - git: 🙋 explained
+  - github: 🙋 explained

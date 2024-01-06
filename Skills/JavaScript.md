@@ -6,39 +6,39 @@
   - arrow function: 🙋 explained
   - async function: 🙋 explained
   - call: 🎓 known
-  - bind: 🎓 known
+  - bind: 🙋 explained
   - apply: 🎓 known
-  - instanceof: 🎓 known
-  - ...spread: 🖐️ used
-  - ...rest: 🖐️ used
-  - typeof: 🖐️ used
-  - destructuring: 🖐️ used
-  - generator: 👂 heard
-  - iterator: 👂 heard
+  - instanceof: 🙋 explained
+  - ...spread: 🙋 explained
+  - ...rest: 🙋 explained
+  - typeof: 🙋 explained
+  - destructuring: 🙋 explained
+  - generator: 🙋 explained
+  - iterator: 🙋 explained
   - async generator
   - async iterator
   - chaining: 🎓 known
   - optional chaining
   - IIFE: 🎓 known
-  - global: 🎓 known
-  - globalThis: 🎓 known
-  - window: 🖐️ used
-  - getters and setters: 🎓 known
+  - global: 🙋 explained
+  - globalThis: 🙋 explained
+  - window: 🙋 explained
+  - getters and setters: 🙋 explained
   - __proto__: 👂 heard
   - prototype: 🖐️ used
   - equality operators: 🙋 explained
   - logical operators: 🙋 explained
   - bitwise operators: 🎓 known
-  - ternary operator: 🖐️ used
-  - void: 🖐️ used
-  - yield: 👂 heard
-  - await: 🖐️ used
-  - template literal: 🖐️ used
-  - strict mode: 🖐️ used
-  - delete: 🖐️ used
-  - in: 🖐️ used
-  - super: 🖐️ used
-  - Symbol: 🎓 known
+  - ternary operator: 🙋 explained
+  - void: 🙋 explained
+  - yield: 🙋 explained
+  - await: 🙋 explained
+  - template literal: 🙋 explained
+  - strict mode: 🙋 explained
+  - delete: 🙋 explained
+  - in: 🙋 explained
+  - super: 🙋 explained
+  - Symbol: 🙋 explained
   - Reflect
 - Statements
   - if: 🙋 explained
@@ -48,16 +48,16 @@
   - for..in: 🙋 explained
   - for..of: 🙋 explained
   - for await
-  - throw: 🖐️ used
-  - break: 🖐️ used
-  - continue: 🖐️ used
-  - import: 🖐️ used
-  - export: 🖐️ used
+  - throw: 🙋 explained
+  - break: 🙋 explained
+  - continue: 🙋 explained
+  - import: 🙋 explained
+  - export: 🙋 explained
   - label
-  - try..catch: 🖐️ used
-  - switch: 🖐️ used
+  - try..catch: 🙋 explained
+  - switch: 🙋 explained
   - class: 🙋 explained
-  - new Error: 👂 heard
+  - new Error: 🙋 explained
   - with
 - Functions
   - function declaration: 🙋 explained
@@ -67,23 +67,23 @@
   - functional object: 🙋 explained
 - Data structures
   - Array: 🙋 explained
-  - mixin: 🎓 known
-  - extend: 🖐️ used
-  - typed arrays: 🖐️ used
-  - Map: 🎓 known
-  - Set: 🖐️ used
-  - undefined: 🖐️ used
-  - null: 🖐️ used
+  - mixin: 🙋 explained
+  - extend: 🙋 explained
+  - typed arrays: 🙋 explained
+  - Map: 🖐️ used
+  - Set: 🙋 explained
+  - undefined: 🙋 explained
+  - null: 🙋 explained
   - Proxy: 🎓 known
   - weak collections: 🎓 known
-  - timers: 🖐️ used
+  - timers: 🙋 explained
   - EventEmitter: 🎓 known
   - RegExp: 🖐️ used
-  - Date: 🖐️ used
-  - BigInt: 🎓 known
+  - Date: 🙋 explained
+  - BigInt: 🙋 explained
 - Infrastructure
-  - V8: 🎓 known
+  - V8: 🙋 explained
   - Node.js: 🖐️ used
   - npm: 🖐️ used
-  - prettier: 🖐️ used
+  - prettier: 🙋 explained
   - MDN: 🖐️ used

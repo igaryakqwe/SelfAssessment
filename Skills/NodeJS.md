@@ -4,21 +4,21 @@
   - Strong and weak sides of node.js: 🎓 known
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
-  - Event loop: phases: 👂 heard
-  - Event loop: microtasks and macrotasks: 👂 heard
-  - Garbage collection: 🎓 known
+  - Event loop: phases: 🖐️ used
+  - Event loop: microtasks and macrotasks: 🖐️ used
+  - Garbage collection: 🙋 explained
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules: 🖐️ used
-  - ECMAScript modules: 🖐️ used
-  - node:module: 🖐️ used
+  - CommonJS modules: 🙋 explained
+  - ECMAScript modules: 🙋 explained
+  - node:module: 🙋 explained
   - Caching in CJS and ESM
   - Modules as singletons: 👂 heard
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules: 🖐️ used
-  - Dependencies: package.json and package lock: 🖐️ used
+  - Dependencies: npm, node_modules: 🙋 explained
+  - Dependencies: package.json and package lock: 🙋 explained
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection: 🖐️ used
@@ -42,7 +42,7 @@
   - Copy folder recursively
   - Worker threads
   - Performance hooks
-  - Native fetch and nodejs/undici: 🖐️ used
+  - Native fetch and nodejs/undici: 🙋 explained
   - node:async_hooks
   - AsyncLocalStorage
   - AsyncResource
@@ -67,7 +67,7 @@
   - Inversion of control
   - Dependency injection
   - GRASP: 👂 heard
-  - SOLID: 👂 heard
+  - SOLID: 🙋 explained
   - GoF patterns: 👂 heard
   - Distributed systems
   - Highload applications
@@ -85,25 +85,25 @@
   - Leaking abstractions
 - Network
   - IP sticky sessions: 🎓 known
-  - Endpoint throttling: 🖐️ used
-  - HTTP(S): 🖐️ used
-  - TCP/SSL: 🖐️ used
-  - UDP: 🖐️ used
+  - Endpoint throttling: 🙋 explained
+  - HTTP(S): 🙋 explained
+  - TCP/SSL: 🙋 explained
+  - UDP: 🙋 explained
   - TLS
-  - Websocket: 🖐️ used
+  - Websocket: 🙋 explained
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST: 🎓 known
-  - RPC
-  - Routing: 🎓 known
+  - REST: 🙋 explained
+  - RPC: 🙋 explained
+  - Routing: 🙋 explained
   - DoS
   - DDoS: 👂 heard
   - XSS
   - Path traversal
   - CSRF
-  - DNS: 🎓 known
-  - Fetch API: 🖐️ used
+  - DNS: 🙋 explained
+  - Fetch API: 🙋 explained
   - IncomingMessage
   - SQL injection
   - noDelay
@@ -116,7 +116,7 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing: 👂 heard
+  - Testing: 🙋 explained
   - CI/CD: 👂 heard
   - Readable: 🎓 known
   - Writable: 🎓 known
@@ -130,22 +130,22 @@
   - Availability: 🎓 known
   - Flexibility: 🎓 known
 - Data access
-  - Data access layer: 🎓 known
-  - Repository: 🖐️ used
+  - Data access layer: 🙋 explained
+  - Repository: 🙋 explained
   - Active record
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error: 🖐️ used
+  - Error: 🙋 explained
   - error.cause
   - error.code
-  - error.message: 🖐️ used
+  - error.message: 🙋 explained
   - error.stack
   - How to avoid mixins
   - Error.captureStackTrace
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools: 🖐️ used
+  - Debugging tools: 🙋 explained
   - Flame graph
   - Memory leaks
   - Resource leaks
