@@ -1,78 +1,78 @@
 - Internet
-  - HTTP(S): 🎓 known
-  - DNS: 🎓 known
-  - Hosting: 🎓 known
-  - Browser: 🎓 known
+  - HTTP(S): 🙋 explained
+  - DNS: 🙋 explained
+  - Hosting: 🙋 explained
+  - Browser: 🙋 explained
 - HTML
-  - Basics: 🎓 known
-  - Semantic: 🎓 known
-  - Forms: 🎓 known
-  - Accessibility: 🎓 known
-  - SEO: 👂 heard
+  - Basics: 🙋 explained
+  - Semantic: 🙋 explained
+  - Forms: 🙋 explained
+  - Accessibility: 🙋 explained
+  - SEO: 🙋 explained
 - CSS
-  - Basics: 🎓 known
-  - Layout: 🎓 known
-  - Responsive: 🎓 known
-  - Flexbox: 🖐️ used
+  - Basics: 🙋 explained
+  - Layout: 🙋 explained
+  - Responsive: 🙋 explained
+  - Flexbox: 🙋 explained
   - Grid: 🖐️ used
-  - Animations: 🎓 known
-  - Preprocessors: 🖐️ used
-  - BEM: 🖐️ used
-  - CSS-in-JS: 🖐️ used
-  - Accessibility: 🎓 known
+  - Animations: 🙋 explained
+  - Preprocessors: 🙋 explained
+  - BEM: 🙋 explained
+  - CSS-in-JS: 🙋 explained
+  - Accessibility: 🙋 explained
 - JavaScript
   - Basics: 🙋 explained
-  - DOM: 🖐️ used
-  - Events: 🖐️ used
-  - Fetch API: 🖐️ used
-  - Promises: 🖐️ used
-  - Async/await: 🖐️ used
-  - Modules: 🖐️ used
+  - DOM: 🙋 explained
+  - Events: 🙋 explained
+  - Fetch API: 🙋 explained
+  - Promises: 🙋 explained
+  - Async/await: 🙋 explained
+  - Modules: 🙋 explained
   - Classes: 🙋 explained
-  - Error handling: 🖐️ used
-  - Testing: 👂 heard
-  - Debugging: 🖐️ used
-  - Security: 🎓 known
-  - Node.js: 🖐️ used
-  - TypeScript: 🖐️ used
-- React
-  - Basics: 🎓 known
-  - Hooks: 🎓 known
-  - Context: 👂 heard
-  - Redux(Zustand): 🖐️ used
-  - Testing: 👂 heard
-  - Debugging: 🖐️ used
-  - Next.js: 🖐️ used
+  - Error handling: 🙋 explained
+  - Testing: 🙋 explained
+  - Debugging: 🙋 explained
+  - Security: 🙋 explained
+  - Node.js: 🙋 explained
+  - TypeScript: 🙋 explained
+- React: 📢 talked
+  - Basics: 🙋 explained
+  - Hooks: 🙋 explained
+  - Context: 🙋 explained
+  - Redux(Zustand): 🙋 explained
+  - Testing: 🙋 explained
+  - Debugging: 🙋 explained
+  - Next.js: 📢 talked
 - CSS Libraries
-  - Bootstrap: 👂 heard
-  - Material UI: 🖐️ used
+  - Bootstrap: 🎓 known
+  - Material UI: 🙋 explained
   - Tailwind CSS: 🖐️ used
   - Styled Components: 🖐️ used
-  - Emotion: 👂 heard
-  - Chakra UI: 👂 heard
-  - Ant Design: 👂 heard
+  - Emotion: 🎓 known
+  - Chakra UI: 🎓 known
+  - Ant Design: 🎓 known
 - Auth strategies
-  - JWT: 👂 heard
+  - JWT: 🖐️ used
 - Web Security
-  - CORS: 👂 heard
-  - SQL Injection: 👂 heard
-  - HTTPS: 🎓 known
+  - CORS: 🙋 explained
+  - SQL Injection: 🎓 known
+  - HTTPS: 🙋 explained
 - Rendering
-  - SSR(Server Side Rendering): 👂 heard
-  - SSG(Static Site Generation): 👂 heard
-  - CSR(Client Side Rendering): 👂 heard
-  - ISR(Incremental Static Regeneration): 👂 heard
-  - RSC(React Server Components): 👂 heard
+  - SSR(Server Side Rendering): 🙋 explained
+  - SSG(Static Site Generation): 🙋 explained
+  - CSR(Client Side Rendering): 🙋 explained
+  - ISR(Incremental Static Regeneration): 🙋 explained
+  - RSC(React Server Components): 🙋 explained
 - Testing
-  - Jest: 👂 heard
-  - React Testing Library: 👂 heard
+  - Jest: 🙋 explained
+  - React Testing Library: 🎓 known
 - React ecosystem
-  - React Router: 👂 heard
-  - React Query: 🖐️ used
-  - Redux Toolkit: 🎓 known
-  - Formik: 🖐️ used
-  - Yup: 🖐️ used
-  - React Hook Form: 👂 heard
-  - MUI: 🖐️ used
-  - Zustand: 🖐️ used
-  - JEST: 👂 heard
+  - React Router: 🙋 explained
+  - React Query: 🙋 explained
+  - Redux Toolkit: 🙋 explained
+  - Formik: 🙋 explained
+  - Yup: 🙋 explained
+  - React Hook Form: 🎓 known
+  - MUI: 🙋 explained
+  - Zustand: 🙋 explained
+  - JEST: 🙋 explained
