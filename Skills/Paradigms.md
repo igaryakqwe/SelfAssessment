@@ -1,52 +1,52 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
+  - Procedural programming 🖐️ used
+  - Imperative programming 🖐️ used
+  - Structured programming 🖐️ used
+  - Non-structured programming: 🎓 known
+  - Functional programming: 🖐️ used
+  - Prototype-based programming: 🎓 known
+  - Object-oriented programming: 🖐️ used
+  - Object-based programming: 🖐️ used
+  - Generic programming: 🎓 known
   - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
-  - Reactive programming
-  - FRP (Functional-reactive)
-  - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
+  - Asyncronous programming: 👂 heard
+  - Parallel programming: 👂 heard
+  - Reactive programming: 👂 heard
+  - FRP (Functional-reactive): 👂 heard
+  - Automata-based programming: 👂 heard
+  - Domain-specific languages: 🖐️ used
+  - Multi-paradigm programming: 🖐️ used
+  - Metaprogramming: 👂 heard
   - Actor model
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
+  - constructor: 🖐️ used
+  - new: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
+  - Getters, Setters: 🎓 known
+  - Public fields: 🖐️ used
+  - Private fields: 🎓 known
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 👂 heard
   - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
+  - Interface: 👂 heard
+  - Encapsulation: 🎓 known
+  - Hidden class: 👂 heard
   - Object form
-  - instance
-  - Introspection
-  - Reflection
+  - instance: 🖐️ used
+  - Introspection: 🖐️ used
+  - Reflection: 🖐️ used
 - Patterns
   - Singleton
   - Factory Method
   - Abstract Factory
   - Adapter
-  - Observer
+  - Observer: 👂 heard
   - Strategy
   - Facade
   - Proxy
