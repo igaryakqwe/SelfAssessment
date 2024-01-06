@@ -1,33 +1,33 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js: 🎓 known
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
-  - Event loop: phases
-  - Event loop: microtasks and macrotasks
-  - Garbage collection
+  - Event loop: phases: 👂 heard
+  - Event loop: microtasks and macrotasks: 👂 heard
+  - Garbage collection: 🎓 known
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module
+  - CommonJS modules: 🖐️ used
+  - ECMAScript modules: 🖐️ used
+  - node:module: 🖐️ used
   - Caching in CJS and ESM
-  - Modules as singletons
+  - Modules as singletons: 👂 heard
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules: 🖐️ used
+  - Dependencies: package.json and package lock: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection: 🖐️ used
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments: 🖐️ used
+  - Node.js CLI: 🖐️ used
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -38,11 +38,11 @@
   - Crypto API
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
-  - File system API: sync and async
+  - File system API: sync and async: 🖐️ used
   - Copy folder recursively
   - Worker threads
   - Performance hooks
-  - Native fetch and nodejs/undici
+  - Native fetch and nodejs/undici: 🖐️ used
   - node:async_hooks
   - AsyncLocalStorage
   - AsyncResource
@@ -55,10 +55,10 @@
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
-  - node:url vs new URL
+  - node:url vs new URL: 🖐️ used
   - node:assert
   - Internationalization
-  - Blob, File, Buffer, node:buffer
+  - Blob, File, Buffer, node:buffer: 🖐️ used
   - Module node:zlib
 - Application structure and architecture
   - Isolation between layer
@@ -66,9 +66,9 @@
   - Separation of concerns
   - Inversion of control
   - Dependency injection
-  - GRASP
-  - SOLID
-  - GoF patterns
+  - GRASP: 👂 heard
+  - SOLID: 👂 heard
+  - GoF patterns: 👂 heard
   - Distributed systems
   - Highload applications
   - Clean architecture
@@ -84,26 +84,26 @@
   - GoF for Node.js
   - Leaking abstractions
 - Network
-  - IP sticky sessions
-  - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - IP sticky sessions: 🎓 known
+  - Endpoint throttling: 🖐️ used
+  - HTTP(S): 🖐️ used
+  - TCP/SSL: 🖐️ used
+  - UDP: 🖐️ used
   - TLS
-  - Websocket
+  - Websocket: 🖐️ used
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST: 🎓 known
   - RPC
-  - Routing
+  - Routing: 🎓 known
   - DoS
-  - DDoS
+  - DDoS: 👂 heard
   - XSS
   - Path traversal
   - CSRF
-  - DNS
-  - Fetch API
+  - DNS: 🎓 known
+  - Fetch API: 🖐️ used
   - IncomingMessage
   - SQL injection
   - noDelay
@@ -116,36 +116,36 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
+  - Testing: 👂 heard
+  - CI/CD: 👂 heard
+  - Readable: 🎓 known
+  - Writable: 🎓 known
   - Transform
   - back pressure
-  - Buffer
-  - Console
+  - Buffer: 🖐️ used
+  - Console: 🖐️ used
   - Inspector
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
 - Data access
-  - Data access layer
-  - Repository
+  - Data access layer: 🎓 known
+  - Repository: 🖐️ used
   - Active record
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
+  - Error: 🖐️ used
   - error.cause
   - error.code
-  - error.message
+  - error.message: 🖐️ used
   - error.stack
   - How to avoid mixins
   - Error.captureStackTrace
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools
+  - Debugging tools: 🖐️ used
   - Flame graph
   - Memory leaks
   - Resource leaks
